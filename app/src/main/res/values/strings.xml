@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidMVCGuide</string>
+    <string name="success_register">Registered successfully</string>
+    <string name="success_login">Login successfully</string>
 </resources>

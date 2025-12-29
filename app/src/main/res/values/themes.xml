@@ -3,6 +3,7 @@
     <style name="Base.Theme.AndroidMVCGuide" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorControlActivated">@android:color/black</item>
     </style>
 
     <style name="Theme.AndroidMVCGuide" parent="Base.Theme.AndroidMVCGuide" />
